@@ -6,6 +6,8 @@ public class washing {
 	
 	public void b1() {
 		
-		System.out.println("huduyguyeguyehuvhfdkchjd");
+		System.out.println("hudhjd");
+		
+		
 	}
 }
